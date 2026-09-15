@@ -1,0 +1,70 @@
+body {
+    display: flex;
+    flex-direction: column; 
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh; 
+    margin: 0;
+    background-image: url('image (1).png');
+    background-size: cover;
+}
+
+.itens {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+#titulo{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 48px;
+}
+
+#btn {
+    padding: 8px 14px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+    background-color: #dee200;
+    border: 2px solid #ccc;
+    color: rgb(0, 0, 0);
+    transition: background-color 0.3s ease;
+}
+
+.box-curiosidade{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    border: 2px solid #ccc;
+    border-radius: 6px;
+    max-width: 1000px;
+    background-color: rgba(230, 238, 114, 0.795);
+}
+
+#curiosidade{
+    max-width: 900px;
+    padding-left: 8px;
+    padding-right: 8px;
+    text-align: center;
+}
+.girar {
+    animation: giro 0.6s ease-in-out;
+}
+
+@keyframes giro {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+#gato-img.girar {
+    animation: giro 0.6s ease-in-out;
+}

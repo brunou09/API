@@ -48,6 +48,6 @@ O arquivo script.js utiliza o método fetch() para realizar uma requisição à 
 <h2>Dificuldade encontrada</h2>
 Durante o desenvolvimento, a principal dificuldade foi entender como realizar a requisição à API e colocar uma boa interface ao site.<br><br>
 
-Trabalho feito no: Visual Studio Code
-Feito por: Bruno Mendes e Victor Schulz
+Trabalho feito no: Visual Studio Code<br>
+Feito por: Bruno Mendes e Victor Schulz<br>
 T TDES 2024/M6

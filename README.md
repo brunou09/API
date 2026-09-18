@@ -26,11 +26,11 @@ https://catfact.ninja/fact
 Esse endereço é utilizado no JavaScript para obter uma nova curiosidade.
 
 <h2>Como rodar</h2>h2>
-Baixe ou clone o repositório.
+- Baixe ou clone o repositório.
 
-Abra a pasta do projeto.
+- Abra a pasta do projeto.
 
-Execute o arquivo index.html.
+- Execute o arquivo index.html.
 
 O projeto pode ser aberto diretamente no navegador. Para uma execução utilizando servidor local, também é possível utilizar o Live Server no Visual Studio Code.
 
@@ -45,7 +45,7 @@ Estrutura do projeto
 O arquivo script.js utiliza o método fetch() para realizar uma requisição à API. Após receber a resposta, os dados são convertidos de JSON e a curiosidade retornada é inserida na página.
 
 <h2>Dificuldade encontrada</h2>
-Durante o desenvolvimento, a principal dificuldade foi entender como realizar a requisição à API e utilizar corretamente os dados retornados em JavaScript.
+Durante o desenvolvimento, a principal dificuldade foi entender como realizar a requisição à API e colocar uma boa interface ao site.<br><br>
 
 Trabalho feito no: Visual Studio Code
 Feito por: Bruno Mendes e Victor Schulz

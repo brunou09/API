@@ -21,7 +21,6 @@ Exemplo:
 
 <h2>Endereço utilizado</h2>
 A aplicação realiza uma requisição para:
-
 https://catfact.ninja/fact
 
 Esse endereço é utilizado no JavaScript para obter uma nova curiosidade.
@@ -36,10 +35,10 @@ Execute o arquivo index.html.
 O projeto pode ser aberto diretamente no navegador. Para uma execução utilizando servidor local, também é possível utilizar o Live Server no Visual Studio Code.
 
 Estrutura do projeto
-.
-├── index.html
-├── style.css
-├── script.js
+.<br>
+├── index.html<br>
+├── style.css<br>
+├── script.js<br>
 └── README.md
 
 <h2>Como funciona</h2>

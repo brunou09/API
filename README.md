@@ -25,7 +25,7 @@ https://catfact.ninja/fact
 
 Esse endereço é utilizado no JavaScript para obter uma nova curiosidade.
 
-<h2>Como rodar</h2>h2>
+<h2>Como rodar</h2>
 - Baixe ou clone o repositório.
 
 - Abra a pasta do projeto.

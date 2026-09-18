@@ -35,6 +35,7 @@ Esse endereço é utilizado no JavaScript para obter uma nova curiosidade.
 O projeto pode ser aberto diretamente no navegador. Para uma execução utilizando servidor local, também é possível utilizar o Live Server no Visual Studio Code.
 
 Estrutura do projeto
+
 .<br>
 ├── index.html<br>
 ├── style.css<br>

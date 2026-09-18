@@ -14,9 +14,9 @@ A requisição retorna informações em formato JSON, contendo uma curiosidade s
 
 Exemplo:
 
-{
-  "fact": "Cats have five toes on their front paws.",
-  "length": 43
+{<br>
+  "fact": "Cats have five toes on their front paws.",<br>
+  "length": 43<br>
 }
 
 <h2>Endereço utilizado</h2>

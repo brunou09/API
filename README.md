@@ -1,7 +1,8 @@
 <h1>Cat Facts API</h1>
 Projeto simples desenvolvido para testar o consumo de uma API utilizando JavaScript. A aplicação utiliza a Cat Facts API para buscar e exibir curiosidades aleatórias sobre gatos.
 
-API utilizada
+
+API utilizada:
 Cat Facts API
 
 Documentação: https://catfact.ninja/
@@ -18,14 +19,14 @@ Exemplo:
   "length": 43
 }
 
-Endereço utilizado
+<h2>Endereço utilizado</h2>
 A aplicação realiza uma requisição para:
 
 https://catfact.ninja/fact
 
 Esse endereço é utilizado no JavaScript para obter uma nova curiosidade.
 
-Como rodar
+<h2>Como rodar</h2>h2>
 Baixe ou clone o repositório.
 
 Abra a pasta do projeto.
@@ -41,10 +42,10 @@ Estrutura do projeto
 ├── script.js
 └── README.md
 
-Como funciona
+<h2>Como funciona</h2>
 O arquivo script.js utiliza o método fetch() para realizar uma requisição à API. Após receber a resposta, os dados são convertidos de JSON e a curiosidade retornada é inserida na página.
 
-Dificuldade encontrada
+<h2>Dificuldade encontrada</h2>
 Durante o desenvolvimento, a principal dificuldade foi entender como realizar a requisição à API e utilizar corretamente os dados retornados em JavaScript.
 
 Trabalho feito no: Visual Studio Code
